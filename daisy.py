@@ -1,3 +1,4 @@
+# This code actually originally by Claire
 def fan(name):
 	return len(name) # hash sign = comment
 	
