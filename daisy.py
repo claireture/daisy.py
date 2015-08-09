@@ -1,6 +1,5 @@
 def fan(name):
-
-	return len(name) #hash sign = comment
+	return len(name) # hash sign = comment
 	
 pet_names = ["Daisy", "Abby", "Dashi", "Black Sheep Rico"]
 print pet_names[0]
